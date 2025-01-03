@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schabernack ($SCHABU)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🚀 $SCHABU – Der König des Chaos 🚀</h1>
+        <button onclick="window.location.href='https://pump.fun'">Jetzt Kaufen</button>
+    </header>
+    <section id="tokenomics">
+        <h2>📊 Tokenomics</h2>
+        <p>69.420.000.000 Tokens • 0% Steuern • 100% Schabernack</p>
+    </section>
+    <section id="story">
+        <h2>🎭 Die Geschichte von $SCHABU</h2>
+        <p>Ein gelangweilter Frosch auf einem Skateboard... der Rest ist Geschichte.</p>
+    </section>
+    <section id="community">
+        <h2>💬 Tritt der Schabu-Armee bei!</h2>
+        <ul>
+            <li><a href="#">Telegram</a></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">TikTok</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>© 2024 Schabernack ($SCHABU) – Ein Meme, eine Mission.</p>
+    </footer>
+</body>
+</html>
